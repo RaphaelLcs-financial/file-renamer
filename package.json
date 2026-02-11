@@ -1,0 +1,27 @@
+{
+  "name": "@claw-dev/file-renamer",
+  "version": "1.0.0",
+  "description": "批量文件重命名工具 - 按规则批量重命名文件",
+  "main": "src/index.js",
+  "bin": {
+    "file-renamer": "./bin/cli.js"
+  },
+  "scripts": {
+    "rename": "node src/index.js rename"
+  },
+  "keywords": [
+    "file",
+    "rename",
+    "batch",
+    "filesystem"
+  ],
+  "author": "梦心",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "chalk": "^4.1.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
