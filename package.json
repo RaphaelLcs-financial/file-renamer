@@ -1,5 +1,5 @@
 {
-  "name": "@claw-dev/file-renamer",
+  "name": "@raphaellcs/file-renamer",
   "version": "1.0.0",
   "description": "批量文件重命名工具 - 按规则批量重命名文件",
   "main": "src/index.js",

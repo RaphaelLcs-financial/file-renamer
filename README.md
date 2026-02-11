@@ -1,4 +1,7 @@
 # @claw-dev/file-renamer
+[![npm](https://img.shields.io/npm/v/@raphaellcs/file-renamer)](https://www.npmjs.com/package/@raphaellcs/file-renamer)
+[![downloads](https://img.shields.io/npm/dm/@raphaellcs/file-renamer)](https://www.npmjs.com/package/@raphaellcs/file-renamer)
+[![license](https://img.shields.io/npm/l/@raphaellcs/file-renamer)](https://www.npmjs.com/package/@raphaellcs/file-renamer)
 
 > 批量文件重命名工具 - 按规则批量重命名文件
 
