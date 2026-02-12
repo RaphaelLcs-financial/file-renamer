@@ -1,9 +1,15 @@
 # @raphaellcs/file-renamer
-[![npm](https://img.shields.io/npm/v/@raphaellcs/file-renamer)](https://www.npmjs.com/package/@raphaellcs/file-renamer)
-[![downloads](https://img.shields.io/npm/dm/@raphaellcs/file-renamer)](https://www.npmjs.com/package/@raphaellcs/file-renamer)
-[![license](https://img.shields.io/npm/l/@raphaellcs/file-renamer)](https://www.npmjs.com/package/@raphaellcs/file-renamer)
+[![npm](https://img.shields.io/npm/v/@raphaellcs/file-renamer)](https://www.npmjs.org/package/@raphaellcs/file-renamer)
+[![downloads](https://img.shields.io/npm/dm/@raphaellcs/file-renamer)](https://www.npmjs.org/package/@raphaellcs/file-renamer)
+[![license](https://img.shields.io/npm/l/@raphaellcs/file-renamer)](https://www.npmjs.org/package/@raphaellcs/file-renamer)
+[![GitHub stars](https://img.shields.io/github/stars/RaphaelLcs-financial/file-renamer?style=social)](https://github.com/RaphaelLcs-financial/file-renamer/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/RaphaelLcs-financial/file-renamer)](https://github.com/RaphaelLcs-financial/file-renamer/issues)
 
-> 批量文件重命名工具 - 按规则批量重命名文件
+> 批量文件重命名工具 - 正则表达式、日期重命名、排序
+
+## ⭐ 赞助
+
+如果这个工具对你有帮助，请给个 Star ⭐️ 或者[赞助我](https://github.com/sponsors/RaphaelLcs-financial)！
 
 ## 🚀 功能
 
